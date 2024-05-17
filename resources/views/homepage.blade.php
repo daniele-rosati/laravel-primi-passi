@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>home page</h1>
+
+    <h2> {{ $name }} </h2>
+    <h2> {{$surname}} </h2>
 </body>
 </html>
